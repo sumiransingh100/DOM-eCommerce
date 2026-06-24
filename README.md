@@ -61,3 +61,7 @@ This project demonstrates:
 
 <img width="285" height="1054" alt="screencapture-127-0-0-1-5500-index-html-2026-06-24-12_12_57" src="https://github.com/user-attachments/assets/1ea3f7a8-6fab-4061-8716-7b953141217a" />
 
+## Live Link
+
+https://e-admin-page.netlify.app/
+
